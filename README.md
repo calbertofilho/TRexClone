@@ -1,5 +1,5 @@
 # TRexClone
-Clone do jogo do Goggle (TRexRunner)
+Clone do jogo do Google (TRexRunner), desenvolvido em Python, utilizando a biblioteca Pygame
 
 
 Dependências:

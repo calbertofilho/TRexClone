@@ -1,6 +1,6 @@
 '''
 exemplo da internet
-Atualizado em: 09/06/2021
+Atualizado em: 11/06/2021
 '''
 
 from random import randrange as rnd
