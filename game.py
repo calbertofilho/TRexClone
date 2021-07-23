@@ -16,7 +16,7 @@ pygame.init()
 speed = 4
 
 # loading game sprites from image 'sprites\dino.png' or 'sprites\sonic.png'
-impath = os.path.join(scriptDir, 'res\\images', 'sonic.png')
+impath = os.path.join(scriptDir, 'res/images', 'sonic.png')
 img = Image.open(impath)
 
 # extracting game items and characters from the image.
